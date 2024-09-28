@@ -8,7 +8,6 @@
   <b>Theme : </b>   Arduino solar tracker and led string light
   <br>
   <b>Intoduction : </b> 
-  <br>
   Arduino Solar Tracker  
   <br>
 ∗ 1.This project focuses on designing solar panel that can track maximum irradiance on it’s surface 
